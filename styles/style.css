@@ -1,0 +1,44 @@
+/*style for aboutme.html by Timur Usmanov (u1610242)*/
+
+body {
+	background-color: #3C3A38;
+	font-family: Verdana;
+}
+
+
+h1, h3 {
+	color: #7386CD;
+	font-family: Tahoma;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+
+p, li {
+	color: #FFFFFF;
+}
+
+
+a{
+	color: #D75050;
+	text-decoration: underline;
+}
+
+
+strong {
+	color: #CABB1C;
+}
+
+
+#annotation {
+	font-style: italic;
+	text-align: right;
+}
+
+
+#mood {
+	font-style: italic;
+}
